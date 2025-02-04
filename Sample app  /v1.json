@@ -781,13 +781,13 @@
                 {
                   "id": "e43b6620-5adf-4adc-9bfc-1b2405c943fe",
                   "type": "desktop",
-                  "top": 144,
+                  "top": 170,
                   "left": 1,
                   "width": 40,
                   "height": 760,
                   "componentId": "fd276e5a-fc29-4cc6-a81b-f75458739a6f",
                   "dimensionUnit": "count",
-                  "updatedAt": "2025-02-04T05:53:06.672Z"
+                  "updatedAt": "2025-02-04T05:53:54.775Z"
                 }
               ]
             },
